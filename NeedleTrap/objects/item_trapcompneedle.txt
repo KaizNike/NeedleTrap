@@ -1,0 +1,14 @@
+item_trapcompneedle
+
+[OBJECT:ITEM]
+
+[ITEM_TRAPCOMP:ITEM_TRAPCOMP_NEEDLE]
+    [NAME:needle:needles]
+	[ADJECTIVE:tiny, pinpoint]
+    [SIZE:1]
+    [ATTACK:EDGE:1:2000:stab:stabs:NO_SUB:1000]
+    [MATERIAL_SIZE:1]
+	[IS_SPIKE]
+	[WOOD]
+	[METAL]
+	[HITS:10]
