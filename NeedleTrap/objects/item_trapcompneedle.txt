@@ -1,7 +1,5 @@
 item_trapcompneedle
 
-[OBJECT:ITEM]
-
 [ITEM_TRAPCOMP:ITEM_TRAPCOMP_NEEDLE]
     [NAME:needle:needles]
 	[ADJECTIVE:tiny, pinpoint]
